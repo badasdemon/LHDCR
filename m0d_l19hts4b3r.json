@@ -86,5 +86,41 @@
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Thanos/Thanos.zip",
     "description":"<div>\n<p style=\"text-align: justify;\">Thanos</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
   }
+    ,
+  {
+    "id":8,
+    "name":"Robocop",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Robocop/Robocop.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Robocop/Robocop.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Robocop</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":9,
+    "name":"Classic Wolverine",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Classic%20Wolverine/Classic%20Wolverine.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Classic%20Wolverine/Classic%20Wolverine.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Classic Wolverine</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":10,
+    "name":"Ironman Mark 85",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Mark%2085/Ironman%20Mark%2085.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Mark%2085/Ironman%20Mark%2085.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Ironman Mark 85</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":11,
+    "name":"Ironman Nano Suit",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Ironman Nano Suit</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
   ]
 }
