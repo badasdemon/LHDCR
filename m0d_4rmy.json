@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"ADMOB",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "ca-app-pub-1437241986629219/8623706534",
       "main_ads_intertitial":"ca-app-pub-1437241986629219/7310624869",
       "backup_ads_banner":"qwert12345",
