@@ -1,0 +1,131 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/2341407200",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/7323105293",
+      "main_ads_natives":"ca-app-pub-1437241986629219/4520809998",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/3207728325",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17cc4971d",
+      "initialize_sdk_backup_ads":"17cc4971d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Lightsaber",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Lightsaber/Lightsaber.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Lightsaber/Lightsaber.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Lightsaber Starwars",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Lightsaber%20Starwars/Lightsaber%20Starwars.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Lightsaber%20Starwars/Lightsaber%20Starwars.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Ligthsaber 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ligthsaber%202/Ligthsaber%202.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ligthsaber%202/Ligthsaber%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Shadow Jester",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Shadow%20Jester/Shadow%20Jester.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Shadow%20Jester/Shadow%20Jester.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"StarWars Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/StarWars%20Pack/StarWars%20Pack.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/StarWars%20Pack/StarWars%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Starwars Skin",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Starwars%20Skin/Starwars%20Skin.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Starwars%20Skin/Starwars%20Skin.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Thanos",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Thanos/Thanos.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Thanos/Thanos.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"Robocop",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Robocop/Robocop.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Robocop/Robocop.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":9,
+    "name":"Classic Wolverine",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Classic%20Wolverine/Classic%20Wolverine.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Classic%20Wolverine/Classic%20Wolverine.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":10,
+    "name":"Ironman Mark 85",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Mark%2085/Ironman%20Mark%2085.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Mark%2085/Ironman%20Mark%2085.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":11,
+    "name":"Ironman Nano Suit",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
