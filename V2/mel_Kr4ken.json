@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/3946094920",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/6089080525",
+      "main_ads_natives":"ca-app-pub-1437241986629219/4775998859",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/9006849914",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17cc45d95",
+      "initialize_sdk_backup_ads":"17cc45d95",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Kraken",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken/Kraken.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken/Kraken.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Kraken 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%202/Kraken-2.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%202/Kraken%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Kraken 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken-3.jpg",
+      "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%203/Kraken%E2%80%8B.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Kraken 4",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%204/Kraken-4.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%204/Kraken%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Kraken in melon",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%20in%20melon/Kraken-in-melon.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Kraken%20in%20melon/Kraken%20in%20melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Mod Kraken",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Mod%20Kraken/Mod-Kraken.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Mod%20Kraken/Mod%20Kraken.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Boat Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Boat%20Mod/Boat-Mod.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Boat%20Mod/Boat%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"Ship",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Ship/Ship.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Ship/ship%E2%80%8B.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":9,
+    "name":"Siren Head",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Siren%20Head/Siren-Head.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/Siren%20Head/Siren%20Head.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":10,
+    "name":"The Furry Trap",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/The%20Furry%20Trap/The-Furry-Trap.jpg",
+    "download":"https://aweu.net/MOD%20MELON/LHDCR/Kraken/The%20Furry%20Trap/The%20Furry%20Trap.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
