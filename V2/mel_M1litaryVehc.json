@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/9K58%20Smerch/9K58%20Smerch.jpg",
       "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/9K58%20Smerch/9K58%20Smerch.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.jpg",
       "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/AH-64%20Apache/AH-64%20Apache.jpg",
       "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/AH-64%20Apache/AH-64%20Apache.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Armored%20car%20Tiger/Armored%20car%20Tiger.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Armored%20car%20Tiger/Armored%20car%20Tiger.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BM-8%20Katyusha/BM-8%20Katyusha.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BM-8%20Katyusha/BM-8%20Katyusha.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BM-21%20Grad/BM-21%20Grad.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BM-21%20Grad/BM-21%20Grad.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
     ,
   {
@@ -98,7 +98,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Bogdan%20SAU/Bogdan%20SAU.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Bogdan%20SAU/Bogdan%20SAU.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
      ,
   {
@@ -107,7 +107,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Bomber/Bomber.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Bomber/Bomber.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
      ,
   {
@@ -116,7 +116,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BTR-4/BTR-4.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BTR-4/BTR-4.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":11,
@@ -124,7 +124,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BTR-90/BTR-90.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/BTR-90/BTR-90.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":12,
@@ -132,7 +132,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Car%20raid%20v5/Screenshot_2.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Car%20raid%20v5/Car%20raid%20v5.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":13,
@@ -140,7 +140,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/E-100/E-100.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/E-100/E-100.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":14,
@@ -148,7 +148,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/F%2016%E2%80%8B/F%2016%E2%80%8B.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/F%2016%E2%80%8B/F%2016%E2%80%8B.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":15,
@@ -156,7 +156,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/f-126%20SPARTAN/f-126%20SPARTAN.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/f-126%20SPARTAN/f-126%20SPARTAN.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":16,
@@ -164,7 +164,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Grill%2015/Grill%2015.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Grill%2015/Grill%2015.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":17,
@@ -172,7 +172,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Kamov%20Ka-50%20Black%20Shark/Kamov%20Ka-50%20Black%20Shark.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Kamov%20Ka-50%20Black%20Shark/Kamov%20Ka-50%20Black%20Shark.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":18,
@@ -180,7 +180,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Katyusha/Katyusha.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Katyusha/Katyusha.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":19,
@@ -188,7 +188,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Kurganets%20-%2025/Kurganets%20-%2025.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Kurganets%20-%2025/Kurganets%20-%2025.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":20,
@@ -196,7 +196,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/M1A2%20ABRAMS/M1A2%20ABRAMS.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/M1A2%20ABRAMS/M1A2%20ABRAMS.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":21,
@@ -204,7 +204,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MCDONNELL%20F-3%20Demon/MCDONNELL%20F-3%20Demon.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MCDONNELL%20F-3%20Demon/MCDONNELL%20F-3%20Demon.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":22,
@@ -212,7 +212,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MIG%2021/MIG%2021.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MIG%2021/MIG%2021.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":23,
@@ -220,7 +220,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MiG-21/MiG-21.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MiG-21/MiG-21.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":24,
@@ -228,7 +228,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MIG-29%20Version%203/MIG-29%20Version%203.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MIG-29%20Version%203/MIG-29%20Version%203.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":25,
@@ -236,7 +236,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MiG-35/MiG-35.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/MiG-35/MiG-35.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":26,
@@ -244,7 +244,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Military%20Equipment/Military%20Equipment.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Military%20Equipment/Military%20Equipment.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":27,
@@ -252,7 +252,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzer%204/Panzer%204.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzer%204/Panzer%204.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":28,
@@ -260,7 +260,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":29,
@@ -268,7 +268,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":30,
@@ -276,7 +276,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/PT-76/PT76.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/PT-76/PT76.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":31,
@@ -284,7 +284,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/SU%2027%E2%80%8B%20Flanker/SU%2027%E2%80%8B%20Flanker.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/SU%2027%E2%80%8B%20Flanker/SU%2027%20Flanker.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":32,
@@ -292,7 +292,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T-14%20Armata/T-14%20Armata.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T-14%20Armata/T-14%20Armata.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":33,
@@ -300,7 +300,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T-34-85/T-34-85.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T-34-85/T%2034%2085.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":34,
@@ -308,7 +308,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T26%20V3/T26%20V3.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T26%20V3/T26%20V3.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":35,
@@ -316,7 +316,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T72B3/T72B3.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/T72B3/T72B3.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":36,
@@ -324,7 +324,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":37,
@@ -332,7 +332,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TBMP%20T15%20Armata/TBMP%20T15%20Armata.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TBMP%20T15%20Armata/TBMP%20T15%20Armata.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":38,
@@ -340,7 +340,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%201/Tiger%201.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%201/Tiger%201.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":39,
@@ -348,7 +348,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TIGER%202%20v7/TIGER%202%20v7.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TIGER%202%20v7/tiger%202%20v%207.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":40,
@@ -356,7 +356,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%203/Tiger%203.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%203/Tiger%203.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":41,
@@ -364,7 +364,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%20II/Tiger%20II.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/Tiger%20II/Tiger%20II.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":42,
@@ -372,7 +372,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TOS-1%20Buratino/TOS-1%20Buratino.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/TOS-1%20Buratino/Toc%201%20Buratino.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   } ,
   {
     "id":43,
@@ -380,7 +380,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/%D0%A2-29/%D0%A2-29.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/%D0%A2-29/%D0%A2-29.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
     ,
   {
@@ -389,7 +389,7 @@
     "category":"Mods",
     "image":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.jpg",
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Military%20Vehicle/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.zip",
-      "description":"https://aweu.net/MOD%20MELON/LHDCR/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
