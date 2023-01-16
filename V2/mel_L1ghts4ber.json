@@ -127,5 +127,160 @@
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.zip",
       "description":"file:///android_asset/ueue.html"
   }
-  ]
+ 
+	,
+		{
+			"id": 12,
+			"name": "CAPYBARA GUN",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/CAPYBARA%20GUN/CAPYBARA%20GUN.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/CAPYBARA%20GUN/CAPYBARA%20GUN.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "Darth Vader Mod By Acee",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Darth%20Vader%20Mod%20By%20Acee/Darth%20Vader%20Mod%20By%20Acee.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Darth%20Vader%20Mod%20By%20Acee/Darth%20Vader%20Mod%20By%20Acee.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "DOOM GUY MOD",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/DOOM%20GUY%20MOD/DOOM%20GUY%20MOD.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/DOOM%20GUY%20MOD/DOOM%20GUY%20MOD.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "Heisei Godzilla",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Heisei%20Godzilla/Heisei%20Godzilla.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Heisei%20Godzilla/Heisei%20Godzilla.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "Iron Man Mod Pack V2",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Iron%20Man%20Mod%20Pack%20V2/Iron%20Man%20Mod%20Pack%20V2.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Iron%20Man%20Mod%20Pack%20V2/Iron%20Man%20Mod%20Pack%20V2.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "JETSTREAM MOD PACK",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/JETSTREAM%20MOD%20PACK/JETSTREAM%20MOD%20PACK.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/JETSTREAM%20MOD%20PACK/JETSTREAM%20MOD%20PACK.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "Laser Guns Pack",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Laser%20Guns%20Pack/Laser%20Guns%20Pack.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Laser%20Guns%20Pack/Laser%20Guns%20Pack.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "Light Saber Sable de luz",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Light%20Saber%20Sable%20de%20luz/Light%20Saber%20Sable%20de%20luz.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Light%20Saber%20Sable%20de%20luz/Light%20Saber%20Sable%20de%20luz.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "Lightsaber Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Lightsaber%20Mod/Lightsaber%20Mod.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Lightsaber%20Mod/Lightsaber%20Mod.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "LIGHTSABERS",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/LIGHTSABERS/LIGHTSABERS.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/LIGHTSABERS/LIGHTSABERS.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "MELEE BY RAIDER KARIM",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/MELEE%20BY%20RAIDER%20KARIM/MELEE%20BY%20RAIDER%20KARIM.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/MELEE%20BY%20RAIDER%20KARIM/MELEE%20BY%20RAIDER%20KARIM.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "MELEE WEAPON BY JJ JOHNSON",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/MELEE%20WEAPON%20BY%20JJ%20JOHNSON/MELEE%20WEAPON%20BY%20JJ%20JOHNSON.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/MELEE%20WEAPON%20BY%20JJ%20JOHNSON/MELEE%20WEAPON%20BY%20JJ%20JOHNSON.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "Neon mod pack by @xxaza9348",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Neon%20mod%20pack%20by%20%40xxaza9348/Neon%20mod%20pack%20by%20%40xxaza9348.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Neon%20mod%20pack%20by%20%40xxaza9348/Neon%20mod%20pack%20by%20%40xxaza9348.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "Power Ranger Mod Pack",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Power%20Ranger%20Mod%20Pack/Power%20Ranger%20Mod%20Pack.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Power%20Ranger%20Mod%20Pack/Power%20Ranger%20Mod%20Pack.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "REAL Invisible PREDATOR",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/REAL%20Invisible%20PREDATOR/REAL%20Invisible%20PREDATOR.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/REAL%20Invisible%20PREDATOR/REAL%20Invisible%20PREDATOR.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "Reverse Flash And Flash Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Reverse%20Flash%20And%20Flash%20Mod/Reverse%20Flash%20And%20Flash%20Mod.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Reverse%20Flash%20And%20Flash%20Mod/Reverse%20Flash%20And%20Flash%20Mod.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Spider Man Mod Pack",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Spider%20Man%20Mod%20Pack/Spider%20Man%20Mod%20Pack.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Spider%20Man%20Mod%20Pack/Spider%20Man%20Mod%20Pack.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "SpiderMan Mod Pack",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/SpiderMan%20Mod%20Pack/SpiderMan%20Mod%20Pack.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/SpiderMan%20Mod%20Pack/SpiderMan%20Mod%20Pack.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+		,
+		{
+			"id": 30,
+			"name": "Star Wars",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Star%20Wars/Star%20Wars.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Lightsaber/UPDATE/Star%20Wars/Star%20Wars.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
