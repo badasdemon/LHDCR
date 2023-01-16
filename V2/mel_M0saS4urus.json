@@ -145,5 +145,194 @@
     "download":"https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/Megalodon/Megalodon.zip",
       "description":"file:///android_asset/ueue.html"
   }
-  ]
+  
+	,
+		{
+			"id": 14,
+			"name": "Anomalocaris",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Anomalocaris/Anomalocaris.jpg",
+			"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Anomalocaris/anolamocaris%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+			,
+			{
+				"id": 15,
+				"name": "Baculites Phase 1",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Baculites%20Phase%201/Baculites%20Phase%201.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Baculites%20Phase%201/Baculites%20Phase%201%E2%80%8B.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 16,
+				"name": "Baculites Phase 2-4",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Baculites%20Phase%202-4/Baculites%20Phase%202-4.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Baculites%20Phase%202-4/Baculites%20Phase%202-4.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 17,
+				"name": "Black Water Snake",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Black%20Water%20Snake/Black%20Water%20Snake.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Black%20Water%20Snake/Black%20Water%20Snake.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 18,
+				"name": "Jellyfish",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Jellyfish/Jellyfish.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Jellyfish/Jellyfish.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 19,
+				"name": "JUVENILE SKULLCRAWLER",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/JUVENILE%20SKULLCRAWLER/JUVENILE%20SKULLCRAWLER.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/JUVENILE%20SKULLCRAWLER/JUVENILE%20SKULLCRAWLER.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 20,
+				"name": "Lava Bloop and Jaw Titan",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Lava%20Bloop%20and%20Jaw%20Titan/Lava%20Bloop%20and%20Jaw%20Titan.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Lava%20Bloop%20and%20Jaw%20Titan/Lava%20Bloop%20and%20Jaw%20Titan.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 21,
+				"name": "Leviathan",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Leviathan/Leviathan.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Leviathan/Leviathan%E2%80%8B.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 22,
+				"name": "Long Titanium Cobra",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Long%20Titanium%20Cobra/Long%20Titanium%20Cobra.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Long%20Titanium%20Cobra/Long%20Titanium%20Cobra.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 23,
+				"name": "Massive Kraken and Bloop",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Massive%20Kraken%20and%20Bloop/Massive%20Kraken%20and%20Bloop.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Massive%20Kraken%20and%20Bloop/Massive%20Kraken%20and%20Bloop.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 24,
+				"name": "More Jellyfish Color",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/More%20Jellyfish%20Color/More%20Jellyfish%20Color.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/More%20Jellyfish%20Color/More%20Jellyfish%20Color.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 25,
+				"name": "Opabinia and Ammonites",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Opabinia%20and%20Ammonites/Opabinia%20and%20Ammonites.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Opabinia%20and%20Ammonites/Opabinia%20and%20Ammonites.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 26,
+				"name": "Orthocone",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Orthocone/Orthocone.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Orthocone/Orthocone.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 27,
+				"name": "Reaper Leviathan",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Reaper%20Leviathan/Reaper%20Leviathan.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Reaper%20Leviathan/Reaper%20Leviathan.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 28,
+				"name": "Sea Bridge Worm & Cursed Corn",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 29,
+				"name": "Sea Creatures",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Creatures/Sea%20Creatures.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Creatures/Sea%20Creatures.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 30,
+				"name": "Sea Creatures 2",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Creatures%202/Sea%20Creatures%202.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Creatures%202/Sea%20Creatures%202.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 31,
+				"name": "Sea Monster Phase 2-3",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Monster%20Phase%202-3/Sea%20Monster%20Phase%202-3.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Monster%20Phase%202-3/Sea%20Monster%20Phase%202-3.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 32,
+				"name": "Sea Monster Ppg",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Monster%20Ppg/Sea%20Monster%20Ppg.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Sea%20Monster%20Ppg/Sea%20Monster%20Ppg.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 33,
+				"name": "Seek Final Form",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Seek%20Final%20Form/Seek%20Final%20Form.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Seek%20Final%20Form/Seek%20Final%20Form.zip",
+				"description": "file:///android_asset/ueue.html"
+			},
+			{
+				"id": 34,
+				"name": "Shark Mod",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Shark%20Mod/Shark%20Mod.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Shark%20Mod/Shark%20Mod.zip",
+				"description": "file:///android_asset/ueue.html"
+			}
+			,
+			{
+				"id": 35,
+				"name": "TITANOBOA AND WORM MONSTER",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/TITANOBOA%20AND%20WORM%20MONSTER/TITANOBOA%20AND%20WORM%20MONSTER.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/TITANOBOA%20AND%20WORM%20MONSTER/TITANOBOA%20AND%20WORM%20MONSTER.zip",
+				"description": "file:///android_asset/ueue.html"
+			}
+			,
+			{
+				"id": 36,
+				"name": "Tusotheuthis",
+				"category": "Mods",
+				"image": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Tusotheuthis/Tusotheuthis.jpg",
+				"download": "https://aweu.net/MOD%20MELON/LHDCR/Mosasaurus/UPDATE/Tusotheuthis/Tusotheuthis.zip",
+				"description": "file:///android_asset/ueue.html"
+			}
+	]
 }
