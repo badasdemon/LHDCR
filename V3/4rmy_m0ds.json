@@ -1,96 +1,687 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Armed Forces of Ukraine",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Armed%20Forces%20of%20Ukraine/Armed-Forces-of-Ukraine.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Armed%20Forces%20of%20Ukraine/M%20Armed%20Forces%20of%20Ukraine.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Army Mod",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Army%20Mod/Army-Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Army%20Mod/V%20Army%20Mod.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Law and Crime",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Law%20and%20Crime/Law-and-Crime.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Law%20and%20Crime/V%20Law%20and%20Crime.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Leonid Kozotsov Custom Guns Pack",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Leonid%20Kozotsov%20Custom%20Guns%20Pack/Leonid-Kozotsov-Custom-Guns-Pack.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Army/Leonid%20Kozotsov%20Custom%20Guns%20Pack/S%20Leonid%20Kozotsov%20Custom%20Guns%20Pack.zip",
+			"description": "null"
+		},
+		{
+			"name": "Military",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Military/Military.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Military/V%20Military.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Military mod",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Military%20mod/Military-mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Military%20mod/V%20Military%20mod.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Mini pack on the police",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Mini%20pack%20on%20the%20police/Mini-pack-on-the-police.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Mini%20pack%20on%20the%20police/V%20Mini%20pack%20on%20the%20police.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Puck on German soldiers from WWII",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Puck%20on%20German%20soldiers%20from%20WWII/Puck-on-German-soldiers-from-WWII.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Puck%20on%20German%20soldiers%20from%20WWII/V%20Puck%20on%20German%20soldiers%20from%20WWII.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Soldier Mod",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Soldier%20Mod/Soldier-Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Soldier%20Mod/V%20Soldier%20Mod.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Special Forces Minipack",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Special%20Forces%20Minipack/Special-Forces-Minipack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Special%20Forces%20Minipack/V%20Special%20Forces%20Minipack.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "US Army and Syrian Fighters",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/US%20Army%20and%20Syrian%20Fighters/US-Army-and-Syrian-Fighters.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/US%20Army%20and%20Syrian%20Fighters/V%20US%20Army%20and%20Syrian%20Fighters.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "US Army Combat Uniforms",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/US%20Army%20Combat%20Uniforms/US-Army-Combat-Uniforms.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/US%20Army%20Combat%20Uniforms/V%20US%20Army%20Combat%20Uniforms.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Vietnam War by the foxAn",
+			
+			"image": "https://aweu.net/MELONMASTER/Army/Vietnam%20War%20by%20the%20foxAn/Vietnam%20War%20by%20the%20foxAn.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Army/Vietnam%20War%20by%20the%20foxAn/V%20Vietnam%20War%20by%20the%20foxAn.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Army/Vietnam%20War%20by%20the%20foxAn/S%20Vietnam%20War%20by%20the%20foxAn.zip",
+			"description": "null"
+		},
+		{
+			"name": "Criminals And FBI Mod",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Criminals%20And%20FBI%20Mod/Criminals%20And%20FBI%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Criminals%20And%20FBI%20Mod/S%20Criminals%20And%20FBI%20Mod.zip",
+			"description": "null"
+		},
+		{
+			"name": "FBI and SWAT",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/FBI%20and%20SWAT/FBI%20and%20SWAT.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/FBI%20and%20SWAT/R%20FBI%20and%20SWAT.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "FBI OPEN UP",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/FBI%20OPEN%20UP/FBI%20OPEN%20UP.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/FBI%20OPEN%20UP/S%20FBI%20OPEN%20UP.zip",
+			"description": "null"
+		},
+		{
+			"name": "Helmet from Call Of Duty",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Helmet%20from%20Call%20Of%20Duty/Helmet%20from%20Call%20Of%20Duty.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Helmet%20from%20Call%20Of%20Duty/S%20Helmet%20from%20Call%20Of%20Duty.zip",
+			"description": "null"
+		},
+		{
+			"name": "Military USMS",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Military%20USMS/Military%20USMS.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Military%20USMS/S%20Military%20USMS.zip",
+			"description": "null"
+		},
+		{
+			"name": "Minipack on the police",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Minipack%20on%20the%20police/Minipack%20on%20the%20police.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Minipack%20on%20the%20police/R%20Minipack%20on%20the%20police.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Mod for two policemen",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Mod%20for%20two%20policemen/Mod%20for%20two%20policemen.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Mod%20for%20two%20policemen/R%20Mod%20for%20two%20policemen.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Mod for winter soldier 2",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Mod%20for%20winter%20soldier%202/Mod%20for%20winter%20soldier%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Mod%20for%20winter%20soldier%202/R%20Mod%20for%20winter%20soldier%202.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "NPC - riot police",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/NPC%20-%20riot%20police/NPC%20-%20riot%20police.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/NPC%20-%20riot%20police/S%20NPC%20-%20riot%20police.zip",
+			"description": "null"
+		},
+		{
+			"name": "NPC Cop",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/NPC%20Cop/NPC%20Cop.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/NPC%20Cop/R%20NPC%20Cop.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "NPC Swat",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/NPC%20Swat/NPC%20Swat.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/NPC%20Swat/R%20NPC%20Swat.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Pack of police cars",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Pack%20of%20police%20cars/Pack%20of%20police%20cars.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Pack%20of%20police%20cars/S%20Pack%20of%20police%20cars.zip",
+			"description": "null"
+		},
+		{
+			"name": "Police",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Police/Police.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Police/S%20Police.zip",
+			"description": "null"
+		},
+		{
+			"name": "Police Pack",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Police%20Pack/Police%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Police%20Pack/R%20Police%20Pack.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Police station",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Police%20station/Police%20station.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Police%20station/S%20Police%20station.zip",
+			"description": "null"
+		},
+		{
+			"name": "Secret Military Laboratory",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Secret%20Military%20Laboratory/Secret%20Military%20Laboratory.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Secret%20Military%20Laboratory/S%20Secret%20Military%20Laboratory.zip",
+			"description": "null"
+		},
+		{
+			"name": "Sierra7",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Sierra7/Sierra7.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Sierra7/R%20Sierra7.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Soldier",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Soldier/Soldier.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Soldier/S%20Soldier.zip",
+			"description": "null"
+		},
+		{
+			"name": "Soldier (Second Version)",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Soldier%20(Second%20Version)/Soldier%20(Second%20Version).jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Swat/Soldier%20(Second%20Version)/S%20Soldier%20(Second%20Version).zip",
+			"description": "null"
+		},
+		{
+			"name": "Soldier (Third version)",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Soldier%20(Third%20version)/Soldier%20(Third%20version).jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Soldier%20(Third%20version)/S%20Soldier%20(Third%20version).zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Soldier 2",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Soldier%202/Soldier%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Soldier%202/R%20Soldier%202.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Special forces, SWAT, riot police",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Special%20forces%2C%20SWAT%2C%20riot%20police/Special%20forces%2C%20SWAT%2C%20riot%20police.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Special%20forces%2C%20SWAT%2C%20riot%20police/R%20Special%20forces%2C%20SWAT%2C%20riot%20police.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "SWAT",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/SWAT/SWAT.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/SWAT/R%20SWAT.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "SWAT 2",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/SWAT%202/SWAT%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/SWAT%202/R%20SWAT%202.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Swat mod",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Swat%20mod/Swat%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Swat%20mod/R%20Swat%20mod.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "SWAT Mod 2",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/SWAT%20Mod%202/SWAT%20Mod%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/SWAT%20Mod%202/R%20SWAT%20Mod%202.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Swat pack Update",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Swat%20pack%20Update/Swat%20pack%20Update.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Swat%20pack%20Update/R%20Swat%20pack%20Update.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "SWAT van",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/SWAT%20van/SWAT%20van.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/SWAT%20van/S%20SWAT%20van.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "SWAT.​ Pack",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/SWAT.%E2%80%8B%20Pack/SWAT.%E2%80%8B%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/SWAT.%E2%80%8B%20Pack/R%20SWAT.%E2%80%8B%20Pack.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Two Marines",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Two%20Marines/Two%20Marines.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Two%20Marines/R%20Two%20Marines.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "U.N Unit, United Nations",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/U.N%20Unit%2C%20United%20Nations/U.N%20Unit%2C%20United%20Nations.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/U.N%20Unit%2C%20United%20Nations/R%20U.N%20Unit%2C%20United%20Nations.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "UN peacekeeper",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/UN%20peacekeeper/UN%20peacekeeper.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/UN%20peacekeeper/R%20UN%20peacekeeper.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "USMS Medic",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/USMS%20Medic/USMS%20Medic.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/USMS%20Medic/R%20USMS%20Medic.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Winter Soldiers Pack",
+			
+			"image": "https://aweu.net/MELONMASTER/Swat/Winter%20Soldiers%20Pack/Winter%20Soldiers%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Swat/Winter%20Soldiers%20Pack/R%20Winter%20Soldiers%20Pack.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "96K6 PANTSIR-S1",
+			"image": "https://aweu.net/MELONMASTER/WW2/96K6%20PANTSIR-S1/96K6%20PANTSIR-S1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/96K6%20PANTSIR-S1/S%2096K6%20PANTSIR-S1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AMX AC mle. 48",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/AMX%20AC%20mle.%2048.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/R%20AMX%20AC%20mle.%2048.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/S%20AMX%20AC%20mle.%2048.zip",
+			"description": "null"
+		},
+		{
+			"name": "Armored Truck - Flak 8.8",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Armored%20Truck%20-%20Flak%208.8/S%20Armored%20Truck%20-%20Flak%208.8.zip",
+			"description": "null"
+		},
+		{
+			"name": "Bomber Ar234",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Bomber%20Ar234/Bomber%20Ar234.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Bomber%20Ar234/S%20Bomber%20Ar234.zip",
+			"description": "null"
+		},
+		{
+			"name": "Combat Fighter - F15 Eagle",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Combat%20Fighter%20-%20F15%20Eagle/Combat%20Fighter%20-%20F15%20Eagle.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Combat%20Fighter%20-%20F15%20Eagle/S%20Combat%20Fighter%20-%20F15%20Eagle.zip",
+			"description": "null"
+		},
+		{
+			"name": "F-22 Raptor",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/F-22%20Raptor.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/R%20F-22%20Raptor.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/S%20F-22%20Raptor.zip",
+			"description": "null"
+		},
+		{
+			"name": "F16 Fighting Falcon",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/F16%20Fighting%20Falcon/S%20F16%20Fighting%20Falcon.zip",
+			"description": "null"
+		},
+		{
+			"name": "FA-18EF Super Hornet",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/FA-18EF%20Super%20Hornet/FA-18EF%20Super%20Hornet.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/FA-18EF%20Super%20Hornet/S%20FA-18EF%20Super%20Hornet.zip",
+			"description": "null"
+		},
+		{
+			"name": "Fictional sau Archer",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Fictional%20sau%20Archer/Fictional%20sau%20Archer.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Fictional%20sau%20Archer/S%20Fictional%20sau%20Archer.zip",
+			"description": "null"
+		},
+		{
+			"name": "Fictional tank MG90 A2",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Fictional%20tank%20MG90%20A2/Fictional%20tank%20MG90%20A2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Fictional%20tank%20MG90%20A2/S%20Fictional%20tank%20MG90%20A2.zip",
+			"description": "null"
+		},
+		{
+			"name": "Hwachha",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Hwachha/Hwachha.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Hwachha/S%20Hwachha.zip",
+			"description": "null"
+		},
+		{
+			"name": "Is-1",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Is-1/Is-1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Is-1/S%20Is-1.zip",
+			"description": "null"
+		},
+		{
+			"name": "Jet  - KC RG",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/Jet%20%20-%20KC%20RG.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/R%20Jet%20%20-%20KC%20RG.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/S%20Jet%20%20-%20KC%20RG.zip",
+			"description": "null"
+		},
+		{
+			"name": "LaGG-3-8",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/LaGG-3-8/LaGG-3-8.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/LaGG-3-8/S%20LaGG%E2%80%8B.zip",
+			"description": "null"
+		},
+		{
+			"name": "Neo IS-10 fighter",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Neo%20IS-10%20fighter/Neo%20IS-10%20fighter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Neo%20IS-10%20fighter/S%20Neo%20IS%2010%E2%80%8B.zip",
+			"description": "null"
+		},
+		{
+			"name": "Pack on tanks",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Pack%20on%20tanks/Pack%20on%20tanks.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Pack%20on%20tanks/S%20Pack%20on%20tanks.zip",
+			"description": "null"
+		},
+		{
+			"name": "PzKpfw lllA",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/PzKpfw%20lllA/PzKpfw%20lllA.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/PzKpfw%20lllA/S%20PzKpfw%20lllA.zip",
+			"description": "null"
+		},
+		{
+			"name": "SD KFZ 221",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/SD%20KFZ%20221/SD%20KFZ%20221.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/SD%20KFZ%20221/S%20SD%20KFZ%20221.zip",
+			"description": "null"
+		},
+		{
+			"name": "Seal's WW2",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Seal's%20WW2/Seal's%20WW2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/Seal's%20WW2/R%20Seal's%20WW2.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Soviet aircraft",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/Soviet%20aircraft.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/R%20Soviet%20aircraft.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/S%20Soviet%20aircraft.zip",
+			"description": "null"
+		},
+		{
+			"name": "SU-27 aircraft",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/SU-27%20aircraft/SU-27%20aircraft.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/SU-27%20aircraft/S%20SU-27%20aircraft.zip",
+			"description": "null"
+		},
+		{
+			"name": "Su57 - Felon",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Su57%20-%20Felon/Su57%20-%20Felon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Su57%20-%20Felon/S%20Su57%20-%20Felon.zip",
+			"description": "null"
+		},
+		{
+			"name": "T-14 Armata",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/T-14%20Armata/T-14%20Armata.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/T-14%20Armata/S%20T-14%20Armata.zip",
+			"description": "null"
+		},
+		{
+			"name": "T26E5 Pershing",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/T26E5%20Pershing.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/R%20T26E5%20Pershing.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/S%20T26E5%20Pershing.zip",
+			"description": "null"
+		},
+		{
+			"name": "Tank T72BZ",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Tank%20T72BZ/Tank%20T72BZ.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tank%20T72BZ/S%20Tank%20T72BZ.zip",
+			"description": "null"
+		},
+		{
+			"name": "Tiger ll",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Tiger%20ll/Tiger%20ll.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tiger%20ll/S%20Tiger%20ll.zip",
+			"description": "null"
+		},
+		{
+			"name": "Tracked truck - FLAK 88",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Tracked%20truck%20-%20FLAK%2088/Tracked%20truck%20-%20FLAK%2088.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tracked%20truck%20-%20FLAK%2088/S%20Tracked%20truck%20-%20FLAK%2088.zip",
+			"description": "null"
+		},
+		{
+			"name": "Type 5 Heavy Tank",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Type%205%20Heavy%20Tank/Type%205%20Heavy%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Type%205%20Heavy%20Tank/S%20Type%205%20Heavy%20Tank.zip",
+			"description": "null"
+		},
+		{
+			"name": "Type 10",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Type%2010/Type%2010.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/Type%2010/R%20Type%2010.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Type%2010/S%20Type%2010.zip",
+			"description": "null"
+		},
+		{
+			"name": "US Army",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/US%20Army/US%20Army.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/US%20Army/R%20USArmy.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "Vogler cannon",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Vogler%20cannon/Vogler%20cannon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Vogler%20cannon/S%20Vogler%20cannon.zip",
+			"description": "null"
+		},
+		{
+			"name": "WW2 Pack",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/WW2%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/R%20WW2%20Pack.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/S%20WW2%20Pack.zip",
+			"description": "null"
+		},
+		{
+			"name": "ww2 VN",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/ww2%20VN/ww2%20VN.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/WW2/ww2%20VN/R%20VNW%20mod%20pack.zip",
+			"link_saves": "null",
+			"description": "null"
+		},
+		{
+			"name": "ww2 VN Vehicle",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/ww2%20VN%20Vehicle/ww2%20VN%20Vehicle.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/ww2%20VN%20Vehicle/S%20ww2%20VN%20Vehicle.zip",
+			"description": "null"
+		},
+		{
+			"name": "Xm551 Sheridan",
+			
+			"image": "https://aweu.net/MELONMASTER/WW2/Xm551%20Sheridan/Xm551%20Sheridan.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/WW2/Xm551%20Sheridan/S%20Xm551%20Sheridan.zip",
+			"description": "null"
+		}
+	]
 }
