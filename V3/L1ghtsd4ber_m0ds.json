@@ -1,96 +1,351 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "CAPYBARA GUN",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/CAPYBARA%20GUN/CAPYBARA%20GUN.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/CAPYBARA%20GUN/R%20CAPYBARA%20GUN.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Classic Wolverine",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Classic%20Wolverine/Classic%20Wolverine.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Classic%20Wolverine/R%20Classic%20Wolverine.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Darth Vader Mod By Acee",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Darth%20Vader%20Mod%20By%20Acee/Darth%20Vader%20Mod%20By%20Acee.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Darth%20Vader%20Mod%20By%20Acee/R%20Darth%20Vader%20Mod%20By%20Acee.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "DOOM GUY MOD",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/DOOM%20GUY%20MOD/DOOM%20GUY%20MOD.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/DOOM%20GUY%20MOD/R%20DOOM%20GUY%20MOD.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Heisei Godzilla",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Heisei%20Godzilla/Heisei%20Godzilla.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Heisei%20Godzilla/R%20Heisei%20Godzilla.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/Heisei%20Godzilla/S%20Heisei%20Godzilla.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Iron Man Mod Pack V2",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Iron%20Man%20Mod%20Pack%20V2/Iron%20Man%20Mod%20Pack%20V2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Iron%20Man%20Mod%20Pack%20V2/R%20Iron%20Man%20Mod%20Pack%20V2.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ironman Mark 85",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Ironman%20Mark%2085/Ironman%20Mark%2085.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Ironman%20Mark%2085/R%20Ironman%20Mark%2085.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ironman Nano Suit",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Ironman%20Nano%20Suit/Ironman%20Nano%20Suit.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Ironman%20Nano%20Suit/R%20Ironman%20Nano%20Suit.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "JETSTREAM MOD PACK",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/JETSTREAM%20MOD%20PACK/JETSTREAM%20MOD%20PACK.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/JETSTREAM%20MOD%20PACK/R%20JETSTREAM%20MOD%20PACK.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/JETSTREAM%20MOD%20PACK/S%20JETSTREAM%20MOD%20PACK.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Laser Guns Pack",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Laser%20Guns%20Pack/Laser%20Guns%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Laser%20Guns%20Pack/R%20Laser%20Guns%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Light Saber Sable de luz",
+			"image": "https://aweu.net/MELONMASTER/MELONMASTER/Lightsaber/Light%20Saber%20Sable%20de%20luz/Light%20Saber%20Sable%20de%20luz.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Light%20Saber%20Sable%20de%20luz/R%20Light%20Saber%20Sable%20de%20luz.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Lightsaber",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber/Lightsaber.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber/S%20Lightsaber.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Lightsaber Mod",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber%20Mod/Lightsaber%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber%20Mod/R%20Lightsaber%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Lightsaber Starwars",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber%20Starwars/Lightsaber%20Starwars.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Lightsaber%20Starwars/R%20Lightsaber%20Starwars.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "LIGHTSABERS",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/LIGHTSABERS/LIGHTSABERS.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/LIGHTSABERS/R%20LIGHTSABERS.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ligthsaber 2",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Ligthsaber%202/Ligthsaber%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/Ligthsaber%202/S%20Ligthsaber%202.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MELEE BY RAIDER KARIM",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/MELEE%20BY%20RAIDER%20KARIM/MELEE%20BY%20RAIDER%20KARIM.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/MELEE%20BY%20RAIDER%20KARIM/R%20MELEE%20BY%20RAIDER%20KARIM.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MELEE WEAPON BY JJ JOHNSON",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/MELEE%20WEAPON%20BY%20JJ%20JOHNSON/MELEE%20WEAPON%20BY%20JJ%20JOHNSON.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/MELEE%20WEAPON%20BY%20JJ%20JOHNSON/R%20MELEE%20WEAPON%20BY%20JJ%20JOHNSON.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Neon mod pack by @xxaza9348",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Neon%20mod%20pack%20by%20%40xxaza9348/Neon%20mod%20pack%20by%20%40xxaza9348.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Neon%20mod%20pack%20by%20%40xxaza9348/R%20Neon%20mod%20pack%20by%20%40xxaza9348.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Power Ranger Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Power%20Ranger%20Mod%20Pack/Power%20Ranger%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Power%20Ranger%20Mod%20Pack/R%20Power%20Ranger%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "REAL Invisible PREDATOR",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/REAL%20Invisible%20PREDATOR/REAL%20Invisible%20PREDATOR.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/REAL%20Invisible%20PREDATOR/R%20REAL%20Invisible%20PREDATOR.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Reverse Flash And Flash Mod",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Reverse%20Flash%20And%20Flash%20Mod/Reverse%20Flash%20And%20Flash%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Reverse%20Flash%20And%20Flash%20Mod/R%20Reverse%20Flash%20And%20Flash%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Robocop",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Robocop/Robocop.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Robocop/R%20Robocop.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Shadow Jester",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Shadow%20Jester/Shadow%20Jester.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/Shadow%20Jester/R%20Shadow%20Jester.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Spider Man Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Spider%20Man%20Mod%20Pack/Spider%20Man%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Spider%20Man%20Mod%20Pack/R%20Spider%20Man%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "SpiderMan Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Spider%20Man%20Mod%20Pack/Spider%20Man%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Spider%20Man%20Mod%20Pack/R%20Spider%20Man%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Star Wars",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Star%20Wars/Star%20Wars.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Star%20Wars/R%20Star%20Wars.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/Star%20Wars/S%20Star%20Wars.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "StarWars Pack",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/StarWars%20Pack/StarWars%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/StarWars%20Pack/R%20StarWars%20Pack.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Lightsaber/StarWars%20Pack/S%20StarWars%20Pack.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Starwars Skin",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Starwars%20Skin/Starwars%20Skin.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Starwars%20Skin/R%20Starwars%20Skin.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Thanos",
+			"image": "https://aweu.net/MELONMASTER/Lightsaber/Thanos/Thanos.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Lightsaber/Thanos/R%20Thanos.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Android Robot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Android%20Robot/Android%20Robot.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Android%20Robot/R%20Android%20Robot.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Cool Robot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Cool%20Robot/Cool%20Robot.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Robot/Cool%20Robot/S%20Cool%20Robot.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Droid Mod",
+			"image": "https://aweu.net/MELONMASTER/Robot/Droid%20Mod/Droid%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Droid%20Mod/R%20Droid%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mega Droid",
+			"image": "https://aweu.net/MELONMASTER/Robot/Mega%20Droid/Mega%20Droid.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Mega%20Droid/R%20Mega%20Droid.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Megabot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Megabot/Megabot.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Megabot/R%20Megabot.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mini Robot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Mini%20Robot/Mini%20Robot.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Robot/Mini%20Robot/S%20Mini%20Robot.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mod Robot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44/R%20Mod%20By%20GG%20cat%20gamer%20n%20Stickman44.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Real Robot",
+			"image": "https://aweu.net/MELONMASTER/Robot/Real%20Robot/Real%20Robot.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Robot/Real%20Robot/S%20Real%20Robot.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Robot melsave",
+			"image": "https://aweu.net/MELONMASTER/Robot/Robot%20melsave/Robot%20melsave.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Robot/Robot%20melsave/S%20Robot%20melsave.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Robot Mod",
+			"image": "https://aweu.net/MELONMASTER/Robot/Robot%20Mod/Robot%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Robot/Robot%20Mod/R%20Robot%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		}
+	]
 }
