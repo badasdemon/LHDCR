@@ -1,96 +1,1327 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "9K58 Smerch",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/9K58%20Smerch/9K58%20Smerch.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/9K58%20Smerch/S%209K58%20Smerch.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "A-10 Thunderbolt II",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/A-10%20Thunderbolt%20II/A-10%20Thunderbolt%20II.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/A-10%20Thunderbolt%20II/S%20A-10%20Thunderbolt%20II.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AH-64 Apache",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/AH-64%20Apache/AH-64%20Apache.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/AH-64%20Apache/S%20AH-64%20Apache.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Armored car Tiger",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Armored%20car%20Tiger/Armored%20car%20Tiger.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Armored%20car%20Tiger/S%20Armored%20car%20Tiger.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BM-8 Katyusha",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/BM-8%20Katyusha/BM-8%20Katyusha.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/BM-8%20Katyusha/S%20BM-8%20Katyusha.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BM-21 Grad",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/BM-21%20Grad/BM-21%20Grad.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/BM-21%20Grad/S%20BM-21%20Grad.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BMPT Terminator - 3",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/BMPT%20Terminator%20-%203/S%20BMPT%20Terminator%20-%203.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Bogdan SAU",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Bogdan%20SAU/Bogdan%20SAU.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Bogdan%20SAU/S%20Bogdan%20SAU.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Bomber",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Bomber/Bomber.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Bomber/S%20Bomber.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BTR-4",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/BTR-4/BTR-4.jpg",
+			"link_mods": "null",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BTR-90",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/BTR-4/BTR-4.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/BTR-4/S%20BTR-4.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Car raid v5",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Car%20raid%20v5/Screenshot_2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Car%20raid%20v5/S%20Car%20raid%20v5.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "E-100",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/E-100/E-100.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/E-100/S%20E-100.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "F 16",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/F%2016/F%2016%E2%80%8B.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/F%2016/S%20F%2016%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "f-126 SPARTAN",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/f-126%20SPARTAN/f-126%20SPARTAN.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/f-126%20SPARTAN/S%20f-126%20SPARTAN.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Grill 15",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Grill%2015/Grill%2015.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Grill%2015/S%20Grill%2015.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Kamov Ka-50 Black Shark",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Kamov%20Ka-50%20Black%20Shark/Kamov%20Ka-50%20Black%20Shark.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Kamov%20Ka-50%20Black%20Shark/S%20Kamov%20Ka-50%20Black%20Shark.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Katyusha",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Katyusha/Katyusha.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Katyusha/S%20Katyusha.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Kurganets - 25",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Kurganets%20-%2025/Kurganets%20-%2025.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Kurganets%20-%2025/S%20Kurganets%20-%2025.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "M1A2 ABRAMS",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/M1A2%20ABRAMS/M1A2%20ABRAMS.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/M1A2%20ABRAMS/S%20M1A2%20ABRAMS.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MCDONNELL F-3 Demon",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/MCDONNELL%20F-3%20Demon/MCDONNELL%20F-3%20Demon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/MCDONNELL%20F-3%20Demon/S%20MCDONNELL%20F-3%20Demon.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MIG 21",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/MIG%2021/MIG%2021.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/MIG%2021/S%20MIG%2021.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MiG-21",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/MiG-21/MiG-21.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/MiG-21/S%20MiG-21.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MIG-29 Version 3",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/MIG-29%20Version%203/MIG-29%20Version%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/MIG-29%20Version%203/S%20MIG-29%20Version%203.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MiG-35",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/MiG-35/MiG-35.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/MiG-35/S%20MiG-35.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Military Equipment",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Military%20Equipment/Military%20Equipment.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Military%20Equipment/S%20Military%20Equipment.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Panzer 4",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzer%204/Panzer%204.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzer%204/S%20Panzer%204.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Panzerkampfwagen IV",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzerkampfwagen%20IV/S%20Panzerkampfwagen%20IV.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Panzerkampfwagen VIII Maus",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Panzerkampfwagen%20VIII%20Maus/S%20Panzerkampfwagen%20VIII%20Maus.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "PT-76",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/PT-76/PT76.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/PT-76/S%20PT76.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "SU 27​ Flanker",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/SU%2027%E2%80%8B%20Flanker/SU%2027%E2%80%8B%20Flanker.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/SU%2027%E2%80%8B%20Flanker/S%20SU%2027%20Flanker.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-14 Armata",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/T-14%20Armata/T-14%20Armata.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/T-14%20Armata/S%20T-14%20Armata.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-34-85",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/T-34-85/T-34-85.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/T-34-85/S%20T%2034%2085.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T26 V3",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/T26%20V3/T26%20V3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/T26%20V3/S%20T26%20V3.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T72B3",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/T72B3/T72B3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/T72B3/S%20T72B3.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank Destroyer M18 Hellcat",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tank%20Destroyer%20M18%20Hellcat/S%20Tank%20Destroyer%20M18%20Hellcat.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TBMP T15 Armata",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/TBMP%20T15%20Armata/TBMP%20T15%20Armata.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/TBMP%20T15%20Armata/S%20TBMP%20T15%20Armata.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tiger 1",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%201/Tiger%201.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%201/S%20Tiger%201.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TIGER 2 v7",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/TIGER%202%20v7/TIGER%202%20v7.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/TIGER%202%20v7/S%20tiger%202%20v%207.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tiger 3",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%203/Tiger%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%203/S%20Tiger%203.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tiger II",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%20II/Tiger%20II.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Tiger%20II/S%20Tiger%20II.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TOS-1 Buratino",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/TOS-1%20Buratino/TOS-1%20Buratino.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/TOS-1%20Buratino/S%20Toc%201%20Buratino.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Т-29",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Т-29/Т-29.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Т-29/S%20Т-29.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Т84 120 Scimitar",
+			"image": "https://aweu.net/MELONMASTER/Military%20Vehicle/Т84%20120%20Scimitar/Т84%20120%20Scimitar.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Military%20Vehicle/Т84%20120%20Scimitar/S%20Т84%20120%20Scimitar.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "A fictional DLF tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/A%20fictional%20DLF%20tank/A%20fictional%20DLF%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/A%20fictional%20DLF%20tank/S%20A%20fictional%20DLF%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Abrams and Challenger",
+			"image": "https://aweu.net/MELONMASTER/Tank/Abrams%20and%20Challenger/Abrams%20and%20Challenger.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Abrams%20and%20Challenger/S%20Abrams%20and%20Challenger.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AMX AC mle. 48",
+			"image": "https://aweu.net/MELONMASTER/Tank/AMX%20AC%20mle.%2048/AMX%20AC%20mle.%2048.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Tank/AMX%20AC%20mle.%2048/R%20AMX%20AC%20mle.%2048.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/AMX%20AC%20mle.%2048/S%20AMX%20AC%20mle.%2048.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Apocalypse Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Apocalypse%20Tank/Apocalypse%20Tank.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Tank/Apocalypse%20Tank/R%20Apocalypse%20Tank.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Armored Truck - Flak 8.8",
+			"image": "https://aweu.net/MELONMASTER/Tank/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Armored%20Truck%20-%20Flak%208.8/S%20Armored%20Truck%20-%20Flak%208.8.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Art",
+			"image": "https://aweu.net/MELONMASTER/Tank/Art/Art.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Art/S%20Art.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Big pack Tanks",
+			"image": "https://aweu.net/MELONMASTER/Tank/Big%20pack%20Tanks/Big%20pack%20Tanks.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Big%20pack%20Tanks/S%20Big%20pack%20Tanks.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Black Eagle",
+			"image": "https://aweu.net/MELONMASTER/Tank/Black%20Eagle/Black%20Eagle.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Black%20Eagle/S%20Black%20Eagle.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "BMPT Terminator - 3",
+			"image": "https://aweu.net/MELONMASTER/Tank/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/BMPT%20Terminator%20-%203/S%20BMPT%20Terminator%20-%203.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Car raid v5",
+			"image": "https://aweu.net/MELONMASTER/Tank/Car%20raid%20v5/Car%20raid%20v5.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Car%20raid%20v5/S%20Car%20raid%20v5.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "CARL - 44",
+			"image": "https://aweu.net/MELONMASTER/Tank/CARL%20-%2044/CARL%20-%2044.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/CARL%20-%2044/S%20CARL%20-%2044.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Compact-1 Fictional tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Compact-1%20Fictional%20tank/Compact-1%20Fictional%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Compact-1%20Fictional%20tank/S%20Compact-1%20Fictional%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Fast-moving fictional tank Chizh",
+			"image": "https://aweu.net/MELONMASTER/Tank/Fast-moving%20fictional%20tank%20Chizh/Fast-moving%20fictional%20tank%20Chizh.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Fast-moving%20fictional%20tank%20Chizh/S%20Fast-moving%20fictional%20tank%20Chizh.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Fictional sau Archer",
+			"image": "https://aweu.net/MELONMASTER/Tank/Fictional%20sau%20Archer/Fictional%20sau%20Archer.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Fictional%20sau%20Archer/S%20Fictional%20sau%20Archer.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Fictional tank MG90 A2",
+			"image": "https://aweu.net/MELONMASTER/Tank/Fictional%20tank%20MG90%20A2/Fictional%20tank%20MG90%20A2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Fictional%20tank%20MG90%20A2/S%20Fictional%20tank%20MG90%20A2.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Four Transports - Ural",
+			"image": "https://aweu.net/MELONMASTER/Tank/Four%20Transports%20-%20Ural/Four%20Transports%20-%20Ural.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Four%20Transports%20-%20Ural/S%20Four%20Transports%20-%20Ural.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "FT 17",
+			"image": "https://aweu.net/MELONMASTER/Tank/FT%2017/FT%2017.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/FT%2017/S%20FT%2017.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "FunDance-G1 Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/FunDance-G1%20Tank/FunDance-G1%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/FunDance-G1%20Tank/S%20FunDance-G1%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "FV 4005",
+			"image": "https://aweu.net/MELONMASTER/Tank/FV%204005/FV%204005.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/FV%204005/S%20FV%204005.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Grill-15",
+			"image": "https://aweu.net/MELONMASTER/Tank/Grill-15/Grill-15.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Grill-15/S%20Grill-15.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Heavy railway tank - Schwerer gustav",
+			"image": "https://aweu.net/MELONMASTER/Tank/Heavy%20railway%20tank%20-%20Schwerer%20gustav/Heavy%20railway%20tank%20-%20Schwerer%20gustav.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Heavy%20railway%20tank%20-%20Schwerer%20gustav/S%20Heavy%20railway%20tank%20-%20Schwerer%20gustav.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Is-1",
+			"image": "https://aweu.net/MELONMASTER/Tank/Is-1/Is-1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Is-1/S%20Is-1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "IS-2",
+			"image": "https://aweu.net/MELONMASTER/Tank/IS-2/IS-2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/IS-2/S%20IS-2.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Jag e100 yaga tank destroyer",
+			"image": "https://aweu.net/MELONMASTER/Tank/Jag%20e100%20yaga%20tank%20destroyer/Jag%20e100%20yaga%20tank%20destroyer.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Jag%20e100%20yaga%20tank%20destroyer/S%20Jag%20e100%20yaga%20tank%20destroyer.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "K2 black panther tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/K2%20black%20panther%20tank/K2%20black%20panther%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/K2%20black%20panther%20tank/S%20K2%20black%20panther%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Kurganets - 25",
+			"image": "https://aweu.net/MELONMASTER/Tank/Kurganets%20-%2025/Kurganets%20-%2025.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Kurganets%20-%2025/S%20Kurganets%20-%2025.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "KV6",
+			"image": "https://aweu.net/MELONMASTER/Tank/KV6/KV6.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/KV6/S%20KV6.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Leclerc",
+			"image": "https://aweu.net/MELONMASTER/Tank/Leclerc/Leclerc.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Leclerc/S%20Leclerc.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Leklerk tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Leklerk%20tank/Leklerk%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Leklerk%20tank/S%20Leklerk%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "LVT A1 TANK",
+			"image": "https://aweu.net/MELONMASTER/Tank/LVT%20A1%20TANK/LVT%20A1%20TANK.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/LVT%20A1%20TANK/S%20LVT%20A1%20TANK.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "M1 Abrams!",
+			"image": "https://aweu.net/MELONMASTER/Tank/M1%20Abrams!/M1%20Abrams!.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/M1%20Abrams!/S%20M1%20Abrams!.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "M1A2 Abrams",
+			"image": "https://aweu.net/MELONMASTER/Tank/M1A2%20Abrams/M1A2%20Abrams.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/M1A2%20Abrams/S%20M1A2%20Abrams.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "M3 Stuart",
+			"image": "https://aweu.net/MELONMASTER/Tank/M3%20Stuart/M3%20Stuart.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/M3%20Stuart/S%20M3%20Stuart.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "M18 Hellcat",
+			"image": "https://aweu.net/MELONMASTER/Tank/M18%20Hellcat/M18%20Hellcat.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/M18%20Hellcat/S%20M18%20Hellcat.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mega Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Mega%20Tank/Mega%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Mega%20Tank/S%20Mega%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Military equipment - T72b",
+			"image": "https://aweu.net/MELONMASTER/Tank/Military%20equipment%20-%20T72b/Military%20equipment%20-%20T72b.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Tank/Military%20equipment%20-%20T72b/R%20Military%20equipment%20-%20T72b.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Military%20equipment%20-%20T72b/S%20Military%20equipment%20-%20T72b.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "MS-1",
+			"image": "https://aweu.net/MELONMASTER/Tank/MS-1/MS-1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/MS-1/S%20MS-1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Object 268 Option 4",
+			"image": "https://aweu.net/MELONMASTER/Tank/Object%20268%20Option%204/Object%20268%20Option%204.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Object%20268%20Option%204/S%20Object%20268%20Option%204.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Pack on tanks",
+			"image": "https://aweu.net/MELONMASTER/Tank/Pack%20on%20tanks/Pack%20on%20tanks.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Pack%20on%20tanks/S%20Pack%20on%20tanks.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Pack on tanks 2",
+			"image": "https://aweu.net/MELONMASTER/Tank/Pack%20on%20tanks%202/Pack%20on%20tanks%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Pack%20on%20tanks%202/S%20Pack%20on%20tanks%202.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Panzerkampfwagen E100",
+			"image": "https://aweu.net/MELONMASTER/Tank/Panzerkampfwagen%20E100/Panzerkampfwagen%20E100.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Panzerkampfwagen%20E100/S%20Panzerkampfwagen%20E100.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "PT-76",
+			"image": "https://aweu.net/MELONMASTER/Tank/PT-76/PT-76.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/PT-76/S%20PT-76.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ramp Buggy",
+			"image": "https://aweu.net/MELONMASTER/Tank/Ramp%20Buggy/Ramp%20Buggy.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Ramp%20Buggy/S%20Ramp%20Buggy.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Save KV-2",
+			"image": "null",
+			"link_mods": "null",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Save Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Save%20KV-2/Save%20KV-2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Save%20KV-2/S%20Save%20KV-2.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "SD KFZ 221",
+			"image": "https://aweu.net/MELONMASTER/Tank/SD%20KFZ%20221/SD%20KFZ%20221.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/SD%20KFZ%20221/S%20SD%20KFZ%20221.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Sd.Kfz. 164 Nashorn",
+			"image": "https://aweu.net/MELONMASTER/Tank/Sd.Kfz.%20164%20Nashorn/Sd.Kfz.%20164%20Nashorn.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Sd.Kfz.%20164%20Nashorn/S%20Sd.Kfz.%20164%20Nashorn.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Su-100",
+			"image": "https://aweu.net/MELONMASTER/Tank/Su-100/Su-100.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Su-100/S%20Su-100.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T 80",
+			"image": "https://aweu.net/MELONMASTER/Tank/T%2080/T%2080.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T%2080/S%20T%2080.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-64bm bulat tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T-64bm%20bulat%20tank/T-64bm%20bulat%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T-64bm%20bulat%20tank/S%20T-64bm%20bulat%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-72 tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T-72%20tank/T-72%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T-72%20tank/S%20T-72%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-72AMT tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T-72AMT%20tank/T-72AMT%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T-72AMT%20tank/S%20T-72AMT%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T-84BM Oplot Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T-84BM%20Oplot%20Tank/T-84BM%20Oplot%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T-84BM%20Oplot%20Tank/S%20T-84BM%20Oplot%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T28 Defender Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T28%20Defender%20Tank/T28%20Defender%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T28%20Defender%20Tank/S%20T28%20Defender%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T34 Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T34%20Tank/T34%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T34%20Tank/S%20T34%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T72B3",
+			"image": "https://aweu.net/MELONMASTER/Tank/T72B3/T72B3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T72B3/S%20T72B3.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "T90M heavy tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/T90M%20heavy%20tank/T90M%20heavy%20tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/T90M%20heavy%20tank/S%20T90M%20heavy%20tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank - Rover",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20-%20Rover/Tank%20-%20Rover.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20-%20Rover/S%20Tank%20-%20Rover.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TANK - Strumtiger",
+			"image": "https://aweu.net/MELONMASTER/Tank/TANK%20-%20Strumtiger/TANK%20-%20Strumtiger.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/TANK%20-%20Strumtiger/S%20TANK%20-%20Strumtiger.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank L3",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20L3/Tank%20L3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20L3/S%20Tank%20L3.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank SU 152",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20SU%20152/Tank%20SU%20152.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20SU%20152/S%20Tank%20SU%20152.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank T-90 poplar",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20T-90%20poplar/Tank%20T-90%20poplar.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20T-90%20poplar/S%20Tank%20T-90%20poplar.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank T72BZ",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20T72BZ/Tank%20T72BZ.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20T72BZ/S%20Tank%20T72BZ.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Tank Т-34-85",
+			"image": "https://aweu.net/MELONMASTER/Tank/Tank%20Т-34-85/Tank%20Т-34-85.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Tank%20Т-34-85/S%20Tank%20Т-34-85.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TIGER 2 v7",
+			"image": "https://aweu.net/MELONMASTER/Tank/TIGER%202%20v7/TIGER%202%20v7.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/TIGER%202%20v7/S%20TIGER%202%20v7.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TM-3 Buffalo",
+			"image": "https://aweu.net/MELONMASTER/Tank/TM-3%20Buffalo/Tank%20Т-34-85.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/TM-3%20Buffalo/S%20Tank%20Т-34-85.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Type 5 Heavy Tank",
+			"image": "https://aweu.net/MELONMASTER/Tank/Type%205%20Heavy%20Tank/Type%205%20Heavy%20Tank.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Type%205%20Heavy%20Tank/S%20Type%205%20Heavy%20Tank.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Т84 120 Scimitar",
+			"image": "https://aweu.net/MELONMASTER/Tank/Т84%20120%20Scimitar/Т84%20120%20Scimitar.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Tank/Т84%20120%20Scimitar/S%20Т84%20120%20Scimitar.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AH-64 and BALL UH1",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/AH-64%20and%20BALL%20UH1/AH-64%20and%20BALL%20UH1.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Helicopter/AH-64%20and%20BALL%20UH1/S%20AH-64%20and%20BALL%20UH1.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AH-64 Apache",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/AH-64%20Apache/AH-64%20Apache.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/AH-64%20Apache/S%20AH-64%20Apache.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Aircraft B17",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Aircraft%20B17/Aircraft%20B17.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Aircraft%20B17/S%20Aircraft%20B17.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Aircraft with hydraulic nozzle",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Aircraft%20with%20hydraulic%20nozzle/Aircraft%20with%20hydraulic%20nozzle.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Aircraft%20with%20hydraulic%20nozzle/S%20Aircraft%20with%20hydraulic%20nozzle.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Alligator",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Alligator/Alligator.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Alligator/S%20Alligator.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "AN-124",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/AN-124/AN-124.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/AN-124/S%20AN-124.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Author Helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Author%20Helicopter/Author%20Helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Author%20Helicopter/S%20Author%20Helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Boeing 747",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Boeing%20747/Boeing%20747.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Boeing%20747/S%20Boeing%20747.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Boeing 787-8",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Boeing%20787-8/Boeing%20787-8.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Boeing%20787-8/S%20Boeing%20787-8.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Bomber - JU87",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Bomber%20-%20JU87/Bomber%20-%20JU87.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Bomber%20-%20JU87/S%20Bomber%20-%20JU87.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Civil Aircraft Pack",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Civil%20Aircraft%20Pack/Civil%20Aircraft%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Helicopter/Civil%20Aircraft%20Pack/V%20Civil%20Aircraft%20Pack.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Civil%20Aircraft%20Pack/S%20Civil%20Aircraft%20Pack.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Combat helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Combat%20helicopter/Combat%20helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Combat%20helicopter/S%20Combat%20helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Eurocopter as.350",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Eurocopter%20as.350/Eurocopter%20as.350.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Eurocopter%20as.350/S%20Eurocopter%20as.350.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "F16 Fighting Falcon",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/F16%20Fighting%20Falcon/S%20F16%20Fighting%20Falcon.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "FA-18EF Super Hornet",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/FA-18EF%20Super%20Hornet/FA-18EF%20Super%20Hornet.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/FA-18EF%20Super%20Hornet/S%20FA-18EF%20Super%20Hornet.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Fighter I-15 bis",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Fighter%20I-15%20bis/Fighter%20I-15%20bis.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Helicopter/Fighter%20I-15%20bis/V%20Fighter%20I-15%20bis.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Fighter%20I-15%20bis/S%20Fighter%20I-15%20bis.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "GTA5 Sparrow",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/GTA5%20Sparrow/GTA5%20Sparrow.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/GTA5%20Sparrow/S%20GTA5%20Sparrow.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter/Helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter/S%20Helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter 3",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%203/Helicopter%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%203/S%20Helicopter%203.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter 7",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%207/Helicopter%207.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%207/S%20Helicopter%207.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter Flying",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Flying/Helicopter%20Flying.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Flying/S%20Helicopter%20Flying.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter Helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Helicopter/Helicopter%20Helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Helicopter/S%20Helicopter%20Helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter MI - 26",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20MI%20-%2026/Helicopter%20MI%20-%2026.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20MI%20-%2026/S%20Helicopter%20MI%20-%2026.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter Mod",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Mod/Helicopter%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Mod/S%20Helicopter%20Mod.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Helicopter Remake",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Remake/Helicopter%20Remake.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Helicopter%20Remake/S%20Helicopter%20Remake.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Improved Atomic Bomb",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Improved%20Atomic%20Bomb/Improved%20Atomic%20Bomb.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Improved%20Atomic%20Bomb/S%20Improved%20Atomic%20Bomb.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Jet  - KC RG",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Jet%20%20-%20KC%20RG/Jet%20%20-%20KC%20RG.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Helicopter/Jet%20%20-%20KC%20RG/V%20Jet%20%20-%20KC%20RG.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Jet%20%20-%20KC%20RG/S%20Jet%20%20-%20KC%20RG.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ka-52",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Ka-52/Ka-52.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Ka-52/S%20Ka-52.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ka-52 Alligator",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Ka-52%20Alligator/Ka-52%20Alligator.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Ka-52%20Alligator/S%20Ka-52%20Alligator.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Kamov Ka-52",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Kamov%20Ka-52/Kamov%20Ka-52.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Kamov%20Ka-52/S%20Kamov%20Ka-52.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Kawasaki OH-1",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Kawasaki%20OH-1/Kawasaki%20OH-1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Kawasaki%20OH-1/S%20Kawasaki%20OH-1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Medium bomber",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Medium%20bomber/Medium%20bomber.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Medium%20bomber/S%20Medium%20bomber.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mi 34 Modern",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Mi%2034%20Modern/Mi%2034%20Modern.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Mi%2034%20Modern/S%20Mi%2034%20Modern.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mi-8 helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Mi-8%20helicopter/Mi-8%20helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Mi-8%20helicopter/S%20Mi-8%20helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mi-8 MSB",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Mi-8%20MSB/Mi-8%20MSB.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Mi-8%20MSB/S%20Mi-8%20MSB.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mil Mi-24",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Mil%20Mi-24/Mil%20Mi-24.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Mil%20Mi-24/S%20Mil%20Mi-24.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Mini helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Mini%20helicopter/Mini%20helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Mini%20helicopter/S%20Mini%20helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Neo IS-10 fighter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Neo%20IS-10%20fighter/Neo%20IS-10%20fighter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Neo%20IS-10%20fighter/S%20Neo%20IS-10%20fighter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Ptaha D1",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Ptaha%20D1/Ptaha%20D1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Ptaha%20D1/S%20Ptaha%20D1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "SH-2 Seasprite",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/SH-2%20Seasprite/SH-2%20Seasprite.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/SH-2%20Seasprite/S%20SH-2%20Seasprite.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Single Helicopter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Single%20Helicopter/Single%20Helicopter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Single%20Helicopter/S%20Single%20Helicopter.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Soviet Mi 8",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Soviet%20Mi%208/Soviet%20Mi%208.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Soviet%20Mi%208/S%20Soviet%20Mi%208.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Su 30CM",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Su%2030CM/Su%2030CM.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Su%2030CM/S%20SU%2030SM%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Su57 - Felon",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Su57%20-%20Felon/Su57%20-%20Felon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Su57%20-%20Felon/S%20Su57%20Felon%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "TU-46 Heavy Pointer",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/TU-46%20Heavy%20Pointer/TU-46%20Heavy%20Pointer.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/TU-46%20Heavy%20Pointer/S%20TU-46%20Heavy%20Pointer.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "Two Uh1",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/Two%20Uh1/Two%20Uh1.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/Two%20Uh1/S%20Two%20Uh1.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "UAV Blighter",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Blighter/UAV%20Blighter.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Blighter/S%20UAV%20Blighter%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "UAV Destroyer",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Destroyer/UAV%20Destroyer.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Destroyer/S%20UAV%20Destroyer%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "UAV Evgeshadrone",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Evgeshadrone/UAV%20Evgeshadrone.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Evgeshadrone/S%20UAV%20Evgeshadrone%E2%80%8B.zip",
+			"type": "C",
+			"description": "null"
+		},
+		{
+			"name": "UAV Obliterator",
+			"image": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Obliterator/UAV%20Obliterator.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Helicopter/UAV%20Obliterator/S%20UAV%20Obliterator.zip",
+			"type": "C",
+			"description": "null"
+		}
+	]
 }
