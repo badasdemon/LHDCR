@@ -10,7 +10,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"19c4b255d",
       "initialize_sdk_backup_ads":"19c4b255d",
       "high_paying_keyword_1": "",
