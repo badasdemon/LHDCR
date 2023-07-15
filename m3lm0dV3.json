@@ -1,4 +1,32 @@
 {
+	"Ads": [
+		{
+			"select_main_ads": "IRON",
+			"select_backup_ads": "FACEBOOK",
+			"main_ads_banner": "",
+			"main_ads_intertitial": "",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "1340587729855807_1340588346522412",
+			"backup_ads_banner": "1340587729855807_1340588246522422",
+			"backup_ads_intertitial": "1340587729855807_1340588293189084",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "null",
+			"interval_intertitial": 1,
+			"initialize_sdk": "19c4b255d",
+			"initialize_sdk_backup_ads": "1340587729855807",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+{
   "Category": [
     {
       "type": "Character"
