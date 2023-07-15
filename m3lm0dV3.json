@@ -2,21 +2,21 @@
 	"Ads": [
 		{
 			"select_main_ads": "IRON",
-			"select_backup_ads": "FACEBOOK",
+			"select_backup_ads": "APPLOVIN-M",
 			"main_ads_banner": "",
 			"main_ads_intertitial": "",
 			"main_ads_natives": "",
 			"main_ads_rewards": "",
-			"backup_ads_natives": "1340587729855807_1340588346522412",
-			"backup_ads_banner": "1340587729855807_1340588246522422",
-			"backup_ads_intertitial": "1340587729855807_1340588293189084",
-			"backup_ads_rewards": "",
+			"backup_ads_natives": "51af2fd59ca29a52",
+			"backup_ads_banner": "9b7b91456d68d60a",
+			"backup_ads_intertitial": "9c5ee13f56450cfe",
+			"backup_ads_rewards": "97ace35a7332ea3d",
 			"open_ads_admob": "",
 			"open_ads_alien": "",
-			"open_ads_max": "null",
-			"interval_intertitial": 1,
+			"open_ads_max": "8b5acb7f1e98b24l",
+			"interval_intertitial": 5,
 			"initialize_sdk": "19c4b255d",
-			"initialize_sdk_backup_ads": "1340587729855807",
+			"initialize_sdk_backup_ads": "",
 			"high_paying_keyword_1": "",
 			"high_paying_keyword_2": "",
 			"high_paying_keyword_3": "",
@@ -26,7 +26,7 @@
 			"link_redirect": "https://"
 		}
 	],
-	"type": [
+	"Category": [
 		{
 			"type": "Alphabet Lore"
 		},
