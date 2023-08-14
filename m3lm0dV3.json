@@ -206,9 +206,263 @@
 		},
 		{
 			"type": "Zombie"
+		},
+		{
+			"type": "Undertale"
+		},
+		{
+			"type": "Skibidi Toilet"
 		}
 	],
 	"Mods": [
+		{
+			"name": "Camo Skibidi Toilets and More",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Camo%20Skibidi%20Toilets%20and%20More/Camo%20Skibidi%20Toilets%20and%20More.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Camo%20Skibidi%20Toilets%20and%20More/mCamo%20Skibidi%20Toilets%20and%20More.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Camo%20Skibidi%20Toilets%20and%20More/sCamo%20Skibidi%20Toilets%20and%20More.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Grapple Skibidi Toilet Mod",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Grapple%20Skibidi%20Toilet%20Mod/Grapple%20Skibidi%20Toilet%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Grapple%20Skibidi%20Toilet%20Mod/mGrapple%20Skibidi%20Toilet%20Mod.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Grapple%20Skibidi%20Toilet%20Mod/sGrapple%20Skibidi%20Toilet%20Mod.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Scientist Toilet and Rocket Toilet",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Scientist%20Toilet%20and%20Rocket%20Toilet/Scientist%20Toilet%20and%20Rocket%20Toilet.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Scientist%20Toilet%20and%20Rocket%20Toilet/mScientist%20Toilet%20and%20Rocket%20Toilet.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Scientist%20Toilet%20and%20Rocket%20Toilet/sScientist%20Toilet%20and%20Rocket%20Toilet.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet/SkibidiToilet.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet/mSkibidiToilet.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet/sSkibidiToilet.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet 46 Vacuum Toilet",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2046%20Vacuum%20Toilet/SkibidiToilet%2046%20Vacuum%20Toilet.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2046%20Vacuum%20Toilet/mSkibidiToilet%2046%20Vacuum%20Toilet.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2046%20Vacuum%20Toilet/sSkibidiToilet%2046%20Vacuum%20Toilet.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet 47",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2047/SkibidiToilet%2047.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2047/mSkibidiToilet%2047.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%2047/sSkibidiToilet%2047.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet ModPack",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20ModPack/SkibidiToilet%20ModPack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20ModPack/mSkibidiToilet%20ModPack.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20ModPack/sSkibidiToilet%20ModPack.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet ModPack By Axo",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20ModPack%20By%20Axo/SkibidiToilet%20ModPack%20By%20Axo.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20ModPack%20By%20Axo/mSkibidiToilet%20ModPack%20By%20Axo.zip",
+			"link_saves": "null",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "SkibidiToilet Pack",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20Pack/SkibidiToilet%20Pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20Pack/mSkibidiToilet%20Pack.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/SkibidiToilet%20Pack/sSkibidiToilet%20Pack.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Titan Cameraman & Titan Speakerman",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Cameraman%20%26%20Titan%20Speakerman/Titan%20Cameraman%20%26%20Titan%20Speakerman.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Cameraman%20%26%20Titan%20Speakerman/mTitan%20Cameraman%20%26%20Titan%20Speakerman.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Cameraman%20%26%20Titan%20Speakerman/sTitan%20Cameraman%20%26%20Titan%20Speakerman.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Titan Tvman Mod",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Tvman%20Mod/Titan%20Tvman%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Tvman%20Mod/mTitan%20Tvman%20Mod.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Titan%20Tvman%20Mod/sTitan%20Tvman%20Mod.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Triple toilet",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Triple%20toilet/Triple%20toilet.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Triple%20toilet/mTriple%20toilet.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Triple%20toilet/sTriple%20toilet.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "TvMan And Large TvMan",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/TvMan%20And%20Large%20TvMan/TvMan%20And%20Large%20TvMan.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/TvMan%20And%20Large%20TvMan/mTvMan%20And%20Large%20TvMan.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/TvMan%20And%20Large%20TvMan/sTvMan%20And%20Large%20TvMan.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Upgraded Gman SkibidiToilet + More",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Upgraded%20Gman%20SkibidiToilet%20%2B%20More/Upgraded%20Gman%20SkibidiToilet%20%2B%20More.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Upgraded%20Gman%20SkibidiToilet%20%2B%20More/mUpgraded%20Gman%20SkibidiToilet%20%2B%20More.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Skibidi%20Toilet/Upgraded%20Gman%20SkibidiToilet%20%2B%20More/sUpgraded%20Gman%20SkibidiToilet%20%2B%20More.zip",
+			"type": "Skibidi Toilet",
+			"description": "null"
+		},
+		{
+			"name": "Alphis",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Alphis/Alphis.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Alphis/mAlphis.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Asgore",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asgore/Asgore.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asgore/mAsgore.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Asriel Drimmurr",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asriel%20Drimmurr/Asriel%20Drimmurr.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asriel%20Drimmurr/mAsriel%20Drimmurr.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Flowie",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Flowie/Flowie.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Flowie/mFlowie.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Frisk",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Frisk/Frisk.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Frisk/mFrisk.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Grilby",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Grilby/Grilby.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Grilby/mGrilby.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Little Dog",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Little%20Dog/Little%20Dog.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Little%20Dog/mLittle%20Dog.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Nps Sans",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Nps%20Sans/Nps%20Sans.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Nps%20Sans/mNps%20Sans.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Sans Paps Bones",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Paps%20Bones/Sans%20Paps%20Bones.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Paps%20Bones/mSans%20Paps%20Bones.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Sans Undertale",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Undertale/Sans%20Undertale.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Undertale/mSans%20Undertale.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "So Sorry",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/So%20Sorry/So%20Sorry.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/So%20Sorry/mSo%20Sorry.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Temmy",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Temmy/Temmy.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Temmy/mTemmy.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "The undertail Mod",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/The%20undertail%20Mod/The%20undertail%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/The%20undertail%20Mod/mThe%20undertail%20Mod.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Toriel",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Toriel/Toriel.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Toriel/mToriel.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Undertale",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Undertale/Undertale.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Undertale/mUndertale.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "Undyne",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Undyne/Undyne.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Undyne/mUndyne.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
+		{
+			"name": "WD Gaster",
+			"image": "https://aweu.net/MOD%20MELON/Mantingan/Sans/WD%20Gaster/WD%20Gaster.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Sans/WD%20Gaster/mWD%20Gaster.zip",
+			"link_saves": "null",
+			"type": "Undertale",
+			"description": ""
+		},
 		{
 			"name": "Alphabet Lore Mod",
 			"type": "Alphabet Lore",
