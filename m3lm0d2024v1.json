@@ -1,7 +1,7 @@
 {
 	"Ads": [
 		{
-			"select_main_ads": "",
+			"select_main_ads": "IRON",
 			"select_backup_ads": "",
 			"main_ads_banner": "",
 			"main_ads_intertitial": "",
@@ -15,7 +15,7 @@
 			"open_ads_alien": "",
 			"open_ads_max": "",
 			"interval_intertitial": 5,
-			"initialize_sdk": "",
+			"initialize_sdk": "1d08b62e5",
 			"initialize_sdk_backup_ads": "",
 			"high_paying_keyword_1": "",
 			"high_paying_keyword_2": "",
