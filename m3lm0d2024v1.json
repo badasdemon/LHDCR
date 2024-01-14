@@ -680,14 +680,6 @@
 			"description": ""
 		},
 		{
-			"name": "Jambo Josh",
-			"type": "Alphabet Lore",
-			"image": "https://aweu.net/MELONMASTER/Alpha%20Lore/Jambo%20Josh/Jambo%20Josh.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Alpha%20Lore/Jambo%20Josh/Jambo%20Josh%20S.zip",
-			"description": ""
-		},
-		{
 			"name": "Katana Man",
 			"type": "Alphabet Lore",
 			"image": "https://aweu.net/MELONMASTER/Alpha%20Lore/Katana%20Man/Katana%20Man.jpg",
@@ -1528,14 +1520,6 @@
 			"description": ""
 		},
 		{
-			"name": "Backrooms 2",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%202/Backrooms%202.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%202/V%20Backrooms%202.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
 			"name": "Backrooms Behind The Sceenes",
 			"type": "Backrooms",
 			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Behind%20The%20Sceenes/Backrooms%20Behind%20The%20Sceenes.jpg",
@@ -1549,14 +1533,6 @@
 			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20By%20Melonk/Backrooms%20By%20Melonk.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20By%20Melonk/V%20Backrooms%20By%20Melonk.zip",
 			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Backrooms Entity",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Entity/Backrooms%20Entity.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Entity/S%20backrooms%20entity.zip",
 			"description": ""
 		},
 		{
@@ -1576,14 +1552,6 @@
 			"description": ""
 		},
 		{
-			"name": "Backrooms Monster 2",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Monster%202/Backrooms%20Monster%202.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Monster%202/M%20Backrooms%20Monster%202.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
 			"name": "Backrooms Monster 3",
 			"type": "Backrooms",
 			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20Monster%203/Backrooms%20Monster%203.jpg",
@@ -1592,34 +1560,10 @@
 			"description": ""
 		},
 		{
-			"name": "Backrooms O",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20O/backrrom%20o.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20O/V%20backrooms%20O.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Backrooms O Level",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20O%20Level/Backrooms%20O%20Level.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Backrooms%20O%20Level/V%20Backrooms%20O%20Level.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
 			"name": "Boring guy",
 			"type": "Backrooms",
 			"image": "https://aweu.net/MELONMASTER/Backrooms/Boring%20guy/Boring%20guy.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Boring%20guy/V%20Boring%20guy.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Doors Pack",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/Doors%20Pack/Doors%20Pack.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Doors%20Pack/V%20Doors%20Pack.zip",
 			"link_saves": "null",
 			"description": ""
 		},
@@ -1636,22 +1580,6 @@
 			"type": "Backrooms",
 			"image": "https://aweu.net/MELONMASTER/Backrooms/Monsters%20from%20Backrooms/Monsters%20from%20Backrooms.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/Monsters%20from%20Backrooms/V%20Monsters%20from%20Backrooms.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "The Backrooms (v-2)",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/The%20Backrooms%20(v-2)/The%20Backrooms%20(v-2).jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/The%20Backrooms%20(v-2)/V%20The%20Backrooms%20(v-2).zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "The Backrooms mod",
-			"type": "Backrooms",
-			"image": "https://aweu.net/MELONMASTER/Backrooms/The%20Backrooms%20mod/The%20Backrooms%20mod.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Backrooms/The%20Backrooms%20mod/V%20The%20Backrooms%20mod.zip",
 			"link_saves": "null",
 			"description": ""
 		},
@@ -3200,14 +3128,6 @@
 			"description": ""
 		},
 		{
-			"name": "Doors Background",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Doors%20Background/Doors%20Background.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Doors%20Background/V%20Doors%20Background.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
 			"name": "Doors from Roblox",
 			"type": "Doors",
 			"image": "https://aweu.net/MELONMASTER/Doors/Doors%20from%20Roblox/Doors%20from%20Roblox.jpg",
@@ -3220,102 +3140,6 @@
 			"type": "Doors",
 			"image": "https://aweu.net/MELONMASTER/Doors/Doors%20mod%20%20by%20NeTx/Doors%20mod%20%20by%20NeTx.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Doors/Doors%20mod%20%20by%20NeTx/V%20Doors%20mod%20%20by%20NeTx.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "DOORS PACK",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/DOORS%20PACK/DOORS%20PACK.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/DOORS%20PACK/S%20DOORS%20PACK.zip",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/DOORS%20PACK/S%20DOORS%20PACK.zip",
-			"description": ""
-		},
-		{
-			"name": "DOORS PACK BY SAINTCANONO",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/DOORS%20PACK%20BY%20SAINTCANONO/DOORS%20PACK%20BY%20SAINTCANONO.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/DOORS%20PACK%20BY%20SAINTCANONO/S%20DOORS%20PACK%20BY%20SAINTCANONO.zip",
-			"description": ""
-		},
-		{
-			"name": "Hide mod",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Hide%20mod/Hide%20mod.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Hide%20mod/V%20Hide%20mod.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Remade Doors",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Remade%20Doors/Remade%20Doors.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Remade%20Doors/V%20Remade%20Doors.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Roblox Doors Characters",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Roblox%20Doors%20Characters/Roblox%20Doors%20Characters.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Roblox%20Doors%20Characters/V%20Roblox%20Doors%20Characters.zip",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/Roblox%20Doors%20Characters/S%20Roblox%20Doors%20Characters.zip",
-			"description": ""
-		},
-		{
-			"name": "Roblox Doors pack",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Roblox%20Doors%20pack/Roblox%20Doors%20pack.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Roblox%20Doors%20pack/V%20Roblox%20Doors%20pack.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Room 50",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Room%2050/Room%2050.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/Room%2050/S%20Room%2050.zip",
-			"description": ""
-		},
-		{
-			"name": "Room 100",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Room%20100/Room%20100.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/Room%20100/S%20Room%20100.zip",
-			"description": ""
-		},
-		{
-			"name": "Rush (monster)",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Rush%20(monster)/Rush%20(monster).jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Rush%20(monster)/V%20Rush%20(monster).zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Seek arms mod",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Seek%20arms%20mod/Seek%20arms%20mod.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/Seek%20arms%20mod/V%20Seek%20arms%20mod.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "Seek chase v2",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/Seek%20chase%20v2/Seek%20chase%20v2.jpg",
-			"link_mods": "null",
-			"link_saves": "https://aweu.net/MELONMASTER/Doors/Seek%20chase%20v2/S%20Seek%20chase%20v2.zip",
-			"description": ""
-		},
-		{
-			"name": "The eyes remade",
-			"type": "Doors",
-			"image": "https://aweu.net/MELONMASTER/Doors/The%20eyes%20remade/The%20eyes%20remade.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Doors/The%20eyes%20remade/V%20The%20eyes%20remade.zip",
 			"link_saves": "null",
 			"description": ""
 		},
@@ -5624,14 +5448,6 @@
 			"description": ""
 		},
 		{
-			"name": "Watermelon manikin",
-			"type": "Items",
-			"image": "https://aweu.net/MELONMASTER/Items/Watermelon%20manikin/Screenshot_2.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Items/Watermelon%20manikin/V%20melon%20doll.zip",
-			"link_saves": "null",
-			"description": ""
-		},
-		{
 			"name": "Welding machine Svarog",
 			"type": "Items",
 			"image": "https://aweu.net/MELONMASTER/Items/Welding%20machine%20Svarog/Welding%20machine%20Svarog.jpg",
@@ -7589,14 +7405,6 @@
 			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Megalodon/Megalodon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Megalodon/R%20Megalodon.zip",
 			"link_saves": "null",
-			"description": ""
-		},
-		{
-			"name": "More Jellyfish Color",
-			"type": "Mosasaurus",
-			"image": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/More%20Jellyfish%20Color.jpg",
-			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/R%20More%20Jellyfish%20Color.zip",
-			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/S%20More%20Jellyfish%20Color.zip",
 			"description": ""
 		},
 		{
