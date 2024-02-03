@@ -108,73 +108,73 @@
     {
       "id": 1,
       "category": "Entertainment, National",
-      "title": "SCTV",
+      "title": "iframe",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/sctv.mp4",
+      "streaming_url": "<IFRAME SRC="https://lylxan.com/e/lmxzaor46lkp" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>",
       "user_agent": ""
     },
     {
       "id": 2,
       "category": "Entertainment, National",
-      "title": "RCTI",
+      "title": "m38u full",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/rcti.mp4",
+      "streaming_url": "https://delivery---1000.cdn-stack.com/hls2/03/00041/lmxzaor46lkp_h/master.m3u8?t=1-X5r8KS06o5DsktuIEsJjadpbjo9WQP4IE8QaXXot0&s=1706992871&e=43200&f=206164&i=0.0&sp=0",
       "user_agent": ""
     },
     {
       "id": 3,
       "category": "Entertainment, National",
-      "title": "GTV",
+      "title": "m38u",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/gtv.mp4",
+      "streaming_url": "https://delivery---1000.cdn-stack.com/hls2/03/00041/lmxzaor46lkp_h/master.m3u8",
       "user_agent": ""
     },
     {
       "id": 4,
       "category": "Entertainment, National",
-      "title": "Trans 7",
+      "title": "vtubemster",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/trans7.mp4",
+      "streaming_url": "https://str12.vtube.network/hls/,x5s4u6qwo5yki6cgannmroprmtrscitzhvov3x5t73dlj24tv3r37vwltn7q,.urlset/master.m3u8",
       "user_agent": ""
     },
     {
       "id": 5,
       "category": "Regional",
-      "title": "ADI TV",
+      "title": "vtubeibdex",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
+      "streaming_url": "https://str12.vtube.network/hls/x5s4u6qwo5yki6cgannmroprmtrscitzhvov3x5t73dlj24tv3r37vwltn7q/index-v1-a1.m3u8",
       "user_agent": ""
     },
     {
       "id": 6,
       "category": "News, National",
-      "title": "Berita Satu",
+      "title": "vtubeiframe",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
+      "streaming_url": "<iframe width="100%" height="100%" src="https://vtbe.to/embed-r4b01xz6vp74.html" scrolling="no" frameborder="0" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>",
       "user_agent": ""
     },
     {
       "id": 7,
       "category": "Religion",
-      "title": "Rodja TV",
+      "title": "streamtape",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://vids.rodja.tv:1935/live/rodja/chunklist_w1534883362.m3u8",
+      "streaming_url": "https://3652634705.tapecontent.net/radosgw/OdmYVo4JjJfZZR6/XCfyZW51K5Odk5AFkCT5rIS-99eHhtVlsvicR6Yp_KuYS2oWT4em3l48LdivjB_biBoK-rI4zq6B4cZ072k2xbUmoLx7buOlip8e1giTg3Ch3zXLp2xpAUTPibCMozNTkFeD3HiWjaGdTzVBuLblGVscQ5cLa5Gwro3362XtDwLSSGhnErDix19Cit-yMehdEDWb3oPU05cwyumGKc27UiM7Q8TQFTbKgPFkfcRfJkRy2LwBdUP51d58rI9z5A3ZtunVKxBwWKBAXaIL/jenny.mp4",
       "user_agent": ""
     },
     {
       "id": 8,
       "category": "National",
-      "title": "TVRI",
+      "title": "doodstream",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvri.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8",
+      "streaming_url": "https://gd121k.video-delivery.net/u5kj7dlrkhdlsdgge5xa4mkbivupbbbumuqqwhsyeyap4qklaumeecoj2mya/vr048a3iu0~hmz5zO0tBH?token=3rjoul1w0l94ir6rgvlla8in&expiry=1706993463834",
       "user_agent": ""
     },
     {
