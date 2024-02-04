@@ -76,28 +76,18 @@
 		{
 			"id": 1,
 			"name": "lokal",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
 		},
 		{
 			"id": 2,
 			"name": "asia",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
-		},
-		{
-			"id": 3,
-			"name": "korea",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
-		},
-		{
-			"id": 4,
-			"name": "asmr",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
 		}
 		,
 		{
-			"id": 4,
+			"id": 3,
 			"name": "short",
-			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
 		}
 	],
 	"channels": [
@@ -213,61 +203,61 @@
 		,
 		{
 			"id": 8,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "kbj m3",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01200/0z39qi2fpsth_,l,n,h,.urlset/index-f1-v1-a1.m3u8",
 			"user_agent": ""
 		}
 		,
 		{
 			"id": 7,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "kbj index m3",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01200/0z39qi2fpsth_,l,n,h,.urlset/master.m3u8",
 			"user_agent": ""
 		}
 		,
 		{
 			"id": 6,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "kbj full index",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01200/0z39qi2fpsth_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=gYBUBugpRQVSi9JPHCDGIT49ufgarhMAIZleIzrW3KU&s=1707069124&e=129600&f=6001004&srv=GuAt1Np9ndSH&i=0.4&sp=1500&p1=GuAt1Np9ndSH&p2=GuAt1Np9ndSH&asn=14061",
 			"user_agent": ""
 		}
 		,
 		{
 			"id": 5,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "kbj full",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01200/0z39qi2fpsth_,l,n,h,.urlset/master.m3u8?t=gYBUBugpRQVSi9JPHCDGIT49ufgarhMAIZleIzrW3KU&s=1707069124&e=129600&f=6001004&srv=GuAt1Np9ndSH&i=0.4&sp=1500&p1=GuAt1Np9ndSH&p2=GuAt1Np9ndSH&asn=14061",
 			"user_agent": ""
 		}
 		,
 		{
 			"id": 4,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "test bjcam m3",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://e0hc8uz2kkhn.enaak-cdn.com/hls2/01/01161/ah0vgxzq4bi9_,l,n,.urlset/index-f1-v1-a1.m3u8",
 			"user_agent": ""
 		}
 		,
 		{
 			"id": 3,
-			"category": "",
-			"title": "",
-			"image": "",
+			"category": "korea",
+			"title": "test bjcam full",
+			"image": "https://2475154882.tapecontent.net/radosgw/2qrp371wMzSZ9Zx/84Mo9Cd4gTRHLMHm-cWZQbq2jwchifHtZ3rcZPcjWsX5_7oNn4HyjS0i4f1h-e286MRnHLodxaSphz05UG8L5WV6QOlzKjprNmnDZbvraX8_4wVYP2r2HkxzW9Y2q6kEe9aajNtpaZzWTi88bSRPc7brbMUHB5dT3lCpw0-tsAx4ekL5WPEtjnyN-fuea0uMillvFf-CP-OwqrMiuSR2qKyjE5YslMmtD67IdxVkupduyABqg2kP0umBmACDSXa7jDnkTO-rP07k2j3MZesH56cmURMUYLkC_jO4H8Un-eOhKRv5vGHqbl8uyk7NSdy8jwkImCo8silLI5ssm9ubXG-_wHKLvm2Ahg-JSw/Thumb_Blue+Zone+%EF%BF%BD+%23fypp+%23fyppppppppppppppppppppppp+%23fyp%E3%82%B7%E3%82%9Aviral+%23fyp%E3%82%B7+%23fyp+%23...+-+regar.mp4.jpg",
 			"description": "",
-			"streaming_url": "",
+			"streaming_url": "https://e0hc8uz2kkhn.enaak-cdn.com/hls2/01/01161/ah0vgxzq4bi9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=DXcti6UrPtE8YfIoZvuQIy5P98jikmsGLYEIpnXHaJA&s=1707068840&e=129600&f=5805434&srv=hqsid8jbfgd7&i=0.4&sp=1500&p1=hqsid8jbfgd7&p2=hqsid8jbfgd7&asn=14061",
 			"user_agent": ""
 		}
 		,
