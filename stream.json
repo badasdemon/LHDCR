@@ -72,193 +72,202 @@
       "show_open_ad_on_app_resume": true
     }
   ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "News",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/news.png"
-    },
-    {
-      "id": 2,
-      "name": "Entertainment",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/entertainment.png"
-    },
-    {
-      "id": 3,
-      "name": "Religion",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/religion.png"
-    },
-    {
-      "id": 4,
-      "name": "Regional",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/regional.png"
-    },
-    {
-      "id": 5,
-      "name": "National",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/national.png"
-    },
-    {
-      "id": 6,
-      "name": "World",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/category/world.png"
-    }
-  ],
-  "channels": [
-    {
-      "id": 1,
-      "category": "Entertainment, National",
-      "title": "SCTV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/sctv.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 2,
-      "category": "Entertainment, National",
-      "title": "RCTI",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/rcti.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 3,
-      "category": "Entertainment, National",
-      "title": "GTV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/gtv.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 4,
-      "category": "Entertainment, National",
-      "title": "Trans 7",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/trans7.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 5,
-      "category": "Regional",
-      "title": "ADI TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 6,
-      "category": "News, National",
-      "title": "Berita Satu",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 7,
-      "category": "Religion",
-      "title": "Rodja TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://vids.rodja.tv:1935/live/rodja/chunklist_w1534883362.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 8,
-      "category": "National",
-      "title": "TVRI",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvri.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 9,
-      "category": "Religion, World",
-      "title": "Aljazeera",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aljazeera.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 10,
-      "category": "Entertainment, National",
-      "title": "MNC TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/mnctv.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 11,
-      "category": "Entertainment, News, National",
-      "title": "Indosiar",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/indosiar.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/indosiar.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 12,
-      "category": "News",
-      "title": "TV ONE",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvone.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/tvone.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 13,
-      "category": "Entertainment, National",
-      "title": "Trans TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/transtv.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 14,
-      "category": "World, News",
-      "title": "CBS News",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
-      "user_agent": ""
-    },
-    {
-      "id": 15,
-      "category": "News, National",
-      "title": "CNN Indonesia",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8",
-      "user_agent": ""
-    }
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-    {
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
-    }
-  ]
+ "categories": [
+		{
+			"id": 1,
+			"name": "lokal",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		},
+		{
+			"id": 2,
+			"name": "asia",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		},
+		{
+			"id": 3,
+			"name": "short",
+			"image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+		}
+	],
+	"channels": [
+		{
+			"id": 19,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 18,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 17,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 16,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 15,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 14,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 13,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 12,
+			"category": "",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 11,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 10,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 9,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 8,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 7,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 6,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 5,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 4,
+			"category": "lokal",
+			"title": "",
+			"image": "",
+			"description": "",
+			"streaming_url": "",
+			"user_agent": ""
+		},
+		{
+			"id": 3,
+			"category": "lokal",
+			"title": "clau",
+			"image": "https://i.ibb.co/mbrH0t6/clau-mp4-snapshot-10-29-2023-12-07-18-05-19.jpg",
+			"description": "",
+			"streaming_url": "https://2475155346.tapecontent.net/radosgw/KWmAbgGz3aU03K2/i7Hggut25lRnfcBd3gb8IG3RC4SVhS7IW2i7Ax4N1q2UEpbLwSRs9mtkt4DMW49T8tHXZOQ4hOQ5NKEWKNRoiXdRmTHy6rZY4Iw9VrGzEBPZabuXrXRGBYkwVuyu-IDVGSYxrifhu_xEX9uFQ0Cll4v1bkKo-mFFhXODwlZimUUi3pOTR4aoP9S3aLtXwX4zp-kbAgn7NDyz-BzYvqLikO-3v5g22DAQ8jn9uRem1Hx3J48Y8N3TY6WVwrv64RcWAgr07-bfTCGQVNLJ/clau.mp4",
+			"user_agent": ""
+		},
+		{
+			"id": 2,
+			"category": "lokal",
+			"title": "peaarr",
+			"image": "https://i.ibb.co/bm4vrp3/peaarr-mp4-snapshot-07-54-2023-12-04-04-03-34.jpg",
+			"description": "",
+			"streaming_url": "https://2475154806.tapecontent.net/radosgw/VGA9aey8m1UKmyA/l63fWt6akqytAa7TKL6KFaZZrke0GO_kSZmbuC244rqxcFb836WtZR7N_oN8rjeuWDhaDM8zoOerSnk79phhqhrgOWnQvIJxaGp1BP3Y2tU-ZSVAEudGdhOGXvKS9-GpB5Q53wbDuUJs9HfoKg4A0sBTx-SxZy4vY4JIP1qdQCyDO5EDfYUk37ykpRQUq9Kp4YqTAb5Jr5Qz8rdKmmLorVYGmO5neSHHQYLvxxduQMfTQqrR_nAf8CyF7C6pxWsPeRyMFqNRwx5xb17a/peaarr.mp4",
+			"user_agent": ""
+		},
+		{
+			"id": 1,
+			"category": "lokal",
+			"title": "piscesgirl",
+			"image": "https://i.ibb.co/MsBKC7s/piscesgirl-mp4-snapshot-06-14-2023-12-04-04-03-47.jpg",
+			"description": "",
+			"streaming_url": "https://908357271.tapecontent.net/radosgw/kvk2lmz87lsOA26/-neqNuolJSAIyIUIedxzqYuXMI4OzHcjfpXzEtWEPyexknl3MLs1Bk30Exqmw5zVgbgA4O9LDHNQm_IWMx3L5U_Z45TK1eZ5ssTqq1I0iAgO0CB0Zh9JYEGZAHyKXdDX8pmEtd_K712TdBbshHm77MjrBiraHdi3CQPQrLN91YeDa6uUBGm50uGjh66bjX40icQifF45W38QS7bitFi7UFqJlSIGujuLcxBf1fmkoQKbBXmxyr0KVKH2N1qN6VDDbXqdEfy6zq2TfMZkSLMGY4lpAe8595m2XdF_Pw/piscesgirl.mp4",
+			"user_agent": ""
+		}
+	],
+	"more_apps": [
+		{
+			"id": 1,
+			"title": "",
+			"image": "",
+			"url": ""
+		}
+	]
 }
